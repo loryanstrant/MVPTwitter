@@ -210,7 +210,7 @@ LeilaGharani
 Lesley_wolan
 limozinlionel
 LonyaDFrench
-loryanstrant
+LoryanStrant
 Luca_Vitali
 Lyncguy
 maarteneekels
@@ -230,6 +230,7 @@ maxmelcher
 MCSMLab
 mderooij
 meetdux
+MeganStrant
 MelickRajee
 message_talk
 michaelbl
